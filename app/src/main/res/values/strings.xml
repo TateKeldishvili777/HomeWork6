@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HW6</string>
+    <string name="CarInfo"><b>Class:</b> Sports car\n<b>Manufacturer:</b> Chevrolet\n<b>Model:</b> Corvette C7\n<b>Model years:</b> 2017\n<b>Engine:</b> 6.2 L LT1 V8\n<b>Transmission:</b> 7-speed Tremec TR-6070 manual\n</string>
+</resources>
